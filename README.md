@@ -1,5 +1,5 @@
 # SNA_Corti_Lattanzi
-Social Network Analisys Project made by Alberto Corti and Lorenzo Lattanzi.
+Social Network Analysis Project made by Alberto Corti and Lorenzo Lattanzi, who attended the course in 2024.
 
 Alberto Corti, University of Pisa, Department of Physics, a.corti5@studenti.unipi.it, Student ID: 598370
 
